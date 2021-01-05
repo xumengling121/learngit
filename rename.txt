@@ -5,4 +5,5 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 git branch 
 git feautre
+create new branch  dev
 
